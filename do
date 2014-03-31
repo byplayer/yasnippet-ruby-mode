@@ -2,6 +2,6 @@
 #group : Blocks
 # key: do
 # --
-do |${1:variable}|
+do${1: |${2:variable}|}
   $0
 end
