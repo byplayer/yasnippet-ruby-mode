@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : rbce
+#key : rbce
+#contributor : yukio
+# --
+# rubocop:enable $0

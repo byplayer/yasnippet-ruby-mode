@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : rbcd
+#key : rbcd
+#contributor : yukio
+# --
+# rubocop:disable $0
