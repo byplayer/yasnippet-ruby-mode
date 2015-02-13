@@ -1,0 +1,6 @@
+#name : after(:type) do ... end
+#group : control structure
+# --
+after(${1:type}) do
+  $0
+end
