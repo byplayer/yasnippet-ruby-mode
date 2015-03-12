@@ -1,0 +1,3 @@
+RSpec.describe ${2:desc} do
+  $0
+end
